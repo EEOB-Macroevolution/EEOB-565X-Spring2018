@@ -41,21 +41,21 @@ Through a combination of lectures and computational exercises, students will bec
             <b>Week</b>
         </td>
         <td valign=middle>
-            **Day**
+            <b>Day</b>
         </td>
         <td valign=middle>
-            **Topic**
+            <b>Topic</b>
         </td>
         <td valign=middle>
-            **Reading/Tutorial**
+            <b>Reading/Tutorial</b>
         </td>
         <td valign=middle>
-            **Instructor**
+            <b>Instructor</b>
         </td>
     </tr>
     <tr>
         <td rowspan=2>
-            **1**
+            <b>1</b>
         </td>			
         <td>
             Tue, Jan 9
@@ -86,7 +86,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **2**
+            <b>2</b>
         </td>			
         <td>
             Tue, Jan 16
@@ -117,7 +117,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **3**
+            <b>3</b>
         </td>			
         <td>
             Tue, Jan 23
@@ -148,7 +148,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **4**
+            <b>4</b>
         </td>			
         <td>
             Tue, Jan 30
@@ -179,7 +179,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **5**
+            <b>5</b>
         </td>			
         <td>
             Tue, Feb 6
@@ -210,7 +210,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **6**
+            <b>6</b>
         </td>			
         <td>
             Tue, Feb 13
@@ -241,7 +241,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **7**
+            <b>7</b>
         </td>			
         <td>
             Tue, Feb 20
@@ -272,13 +272,13 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **8**
+            <b>8</b>
         </td>			
         <td>
             Tue, Feb 27
         </td>
         <td>
-            **Exam**
+            <b>Exam</b>
         </td>
         <td>
             (see above)
@@ -303,7 +303,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **9**
+            <b>9</b>
         </td>			
         <td>
             Tue, Mar 6
@@ -334,13 +334,13 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td>
-            **10**
+            <b>10</b>
         </td>			
         <td>
             Tue, Mar 12-16
         </td>
         <td>
-            **Spring Break**
+            <b>Spring Break</b>
         </td>
         <td>
             Woo!
@@ -351,7 +351,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **11**
+            <b>11</b>
         </td>			
         <td>
             Tue, Mar 20
@@ -382,7 +382,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **12**
+            <b>12</b>
         </td>			
         <td>
             Tue, Mar 27
@@ -413,7 +413,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **13**
+            <b>13</b>
         </td>			
         <td>
             Tue, Apr 3
@@ -444,7 +444,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **14**
+            <b>14</b>
         </td>			
         <td>
             Tue, Apr 10
@@ -475,7 +475,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **15**
+            <b>15</b>
         </td>			
         <td>
             Tue, Apr 17
@@ -506,7 +506,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td rowspan=2>
-            **16**
+            <b>16</b>
         </td>			
         <td>
             Tue, Apr 24
@@ -537,7 +537,7 @@ Through a combination of lectures and computational exercises, students will bec
     </tr>
     <tr>
         <td>
-            **17**
+            <b>17</b>
         </td>			
         <td>
             April 30 - May 3
