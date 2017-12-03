@@ -64,7 +64,7 @@ Through a combination of lectures and computational exercises, students will bec
             Lecture: Patterns of diversity in the fossil record
         </td>
         <td>
-            Raup (1972)
+            [Raup (1972)](http://www.jstor.org/stable/1734207)
         </td>
         <td>
             DA/TH
