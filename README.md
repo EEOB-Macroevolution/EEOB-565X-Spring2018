@@ -35,7 +35,7 @@ Through a combination of lectures and computational exercises, students will bec
 
 ## Course Schedule
 
-<table border=1 >
+<table border=0 >
     <tr>
         <td valign=middle>
             <b>Week</b>
