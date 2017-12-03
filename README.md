@@ -35,6 +35,8 @@ Through a combination of lectures and computational exercises, students will bec
 
 ## Course Schedule
 
+<html>
+<body >
 <table border=0 >
     <tr>
         <td valign=middle>
@@ -78,7 +80,7 @@ Through a combination of lectures and computational exercises, students will bec
             Discussion: Modern studies of diversity dynamics in the fossil record
         </td>
         <td>
-            Quental and Marshall (2010)
+            <a href="http://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(10)00101-1">Quental and Marshall (2010)</a>
         </td>
         <td>
             DA/TH
@@ -553,3 +555,5 @@ Through a combination of lectures and computational exercises, students will bec
         </td>
     </tr>
 </table>
+</body >
+</html>
