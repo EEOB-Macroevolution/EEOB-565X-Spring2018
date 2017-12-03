@@ -38,7 +38,7 @@ Through a combination of lectures and computational exercises, students will bec
 <table border=1 >
     <tr>
         <td valign=middle>
-            **Week**
+            <b>Week</b>
         </td>
         <td valign=middle>
             **Day**
