@@ -36,4 +36,4 @@ Through a combination of lectures and computational exercises, students will bec
 ## Course Schedule
 
 The up-to-date schedule of course topics and activites can be found here:
-[**course schedule**](https://docs.google.com/spreadsheets/d/1RCZk2wY5Ty2JRhTjZ1keajfJ_N4UmzgIRh3KT5Px9zg/edit?usp=sharing)
+[schedule link](https://docs.google.com/spreadsheets/d/1RCZk2wY5Ty2JRhTjZ1keajfJ_N4UmzgIRh3KT5Px9zg/edit?usp=sharing)
