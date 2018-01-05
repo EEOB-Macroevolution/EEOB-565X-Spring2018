@@ -5,6 +5,8 @@
 
 ### Tuesday & Thursday, 2:10 - 3:30 PM in 203 Bessey Hall
 
+[Course Syllabus](https://github.com/EEOB-Macroevolution/EEOB-565X-Spring2018/blob/master/course-files/Macro2017-Syllabus.pdf)
+
 ## Course Description
 
 Evolutionary thinking provides the underpinnings of modern biology. In recent decades, the field of macroevolution (evolution above the species level) has matured into a rich discipline with a well-developed mathematical theory for testing hypotheses of species diversification, for understanding trait evolution, and evaluating patterns of covariation across the tree of life. This course will provide a synthetic view of biology and how life on earth has changed over time.
