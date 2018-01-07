@@ -4,7 +4,7 @@ title: Activities
 permalink: /Activities/
 ---
 
-<h1 class="page-title">{{ page.title | escape }}</h1>
+<h1 class="page-title">Class {{ page.title | escape }}</h1>
 
 <div class="section">
 <div style="background: #ddd">
