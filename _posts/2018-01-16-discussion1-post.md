@@ -2,6 +2,7 @@
 layout: post
 title: "Discussion: The 6th Mass Extinction"
 reading: "Read: Dirzo et al. 2014. Defaunation in the Anthropocene."
+ptype: discussion
 ---
 
 ##### Overview

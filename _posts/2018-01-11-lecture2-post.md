@@ -2,6 +2,7 @@
 layout: post
 title: "Lecture: Measuring speciation and extinction in the fossil record"
 reading: "Read: Raup (1972) and Benton (1995)"
+ptype: lecture
 ---
 
 ##### Overview

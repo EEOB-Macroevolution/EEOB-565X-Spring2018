@@ -2,6 +2,7 @@
 layout: post
 title: "Lecture: Introduction & Patterns of diversity in the fossil record"
 reading: "Read: Benton (2015) - Exploring macroevolution using modern and fossil data"
+ptype: lecture
 ---
 
 
