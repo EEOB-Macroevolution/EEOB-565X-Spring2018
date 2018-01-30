@@ -15,4 +15,4 @@ This lecture will cover phylogenetic concepts including "tree thinking", termino
 
 ##### Slides
 
-Slides will be available on Canvas
+Slides will be available on [Canvas](https://canvas.iastate.edu/courses/46870/files/4264103?module_item_id=1403574)
