@@ -16,4 +16,4 @@ This lecture will cover statistical methods for phylogenetics and continue to 2/
 
 ##### Slides
 
-Slides will be available on Canvas.
+Slides will be available on [Canvas](https://canvas.iastate.edu/courses/46870/files/4326250?module_item_id=1410553.
