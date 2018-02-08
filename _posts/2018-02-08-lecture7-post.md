@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lecture: Statistical methods for reconstructing phylogenies"
+title: "Lecture: Statistical methods for reconstructing phylogenies, part 2"
 reading: "Read: Yang (2014) - Chapter 4 of Molecular Evolution: A Statistical Approach"
 ptype: lecture
 ---
