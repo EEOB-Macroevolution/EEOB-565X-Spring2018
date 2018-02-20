@@ -37,6 +37,8 @@ For Bayesian phylogenetic inference, it is also useful to have the program Trace
 
 ##### R
 
+Note: One nice way to manage your R (and Python, etc.) install, you might like to use Anaconda: [https://www.anaconda.com/download](https://www.anaconda.com/download/?lang=en-us)
+
 Install R and the suite of comparative phylogenetic methods packages.
 
 * Download and R for your operating system: [https://cran.r-project.org](https://cran.r-project.org/)
