@@ -70,6 +70,8 @@ layout: default
           <div class="date-post deep-orange">{{ post.date | date: date_format }}</div>
           {% elsif post.ptype == "practical" %}
           <div class="date-post green darken-3">{{ post.date | date: date_format }}</div>
+          {% elsif post.ptype == "exam" %}
+          <div class="date-post grey darken-3">{{ post.date | date: date_format }}</div>
           {% endif %}
           <span class="title"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
           <p>
