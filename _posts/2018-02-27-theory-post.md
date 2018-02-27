@@ -11,7 +11,7 @@ This class will start with a lecture on Bayesian inference and probability. Addi
 
 ##### Slides
 
-Slides will be available on Canvas. A [publicly available version of the slides](https://github.com/phyloworks/revbayes-workshop2017/blob/master/slides/Lect1-RevBayes-Workshop.pdf) are also available from a recent workshop.
+Slides will be available on [Canvas](https://canvas.iastate.edu/courses/46870/files/4524228?module_item_id=1434712). A [publicly available version of the slides](https://github.com/phyloworks/revbayes-workshop2017/blob/master/slides/Lect1-RevBayes-Workshop.pdf) are also available from a recent workshop.
 
 ##### Software
 
