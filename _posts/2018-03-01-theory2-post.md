@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Theory & Demo: Bayesian inference and RevBayes"
+title: "Theory & Demo: Bayesian inference and RevBayes continued. Then, Divergence time estimation"
 reading: "Read: A Simple Example for Building a Hierarchical Model and Sampling under MCMC"
 ptype: theory
 ---
 
 ##### Overview
 
-This class will start with a lecture on Bayesian inference and probability. Additionally, we will start talking about RevBayes and see a demonstration. We will start a tutorial using a simple example (archery) to give you experience using the software and thinking about hierarchical modeling.
+This will be a continuation of Tuesday's theory lecture where we will discuss MCMC. Then we will start going over divergence-time estimation.
 
 ##### Slides
 
-Slides will be available on [Canvas](https://canvas.iastate.edu/courses/46870/files/4525224?module_item_id=1437219). A [publicly available version of the slides](https://github.com/phyloworks/revbayes-workshop2017/blob/master/slides/Lect1-RevBayes-Workshop.pdf) is also available from a recent workshop.
+Slides will be available on Canvas (intro [slides](https://canvas.iastate.edu/courses/46870/files/4525224?module_item_id=1437219), divergence time [slides](https://canvas.iastate.edu/courses/46870/files/4545436?module_item_id=1437221)). 
 
 ##### Software
 
