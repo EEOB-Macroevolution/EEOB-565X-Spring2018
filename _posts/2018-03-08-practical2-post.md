@@ -22,3 +22,7 @@ See the <a href="{{ "/Software" | relative_url }}">Software page</a> for details
 ##### Tutorial
 
 Please go to the [Simple Diversification Models & Estimating Time Trees](https://revbayes.github.io/revbayes-site/tutorials/clocks/simple) on the RevBayes tutorial site.
+
+##### Practical Questions
+
+Please submit your answers to the practical questions on [Canvas](https://canvas.iastate.edu/courses/46870/discussion_topics/284304)
