@@ -13,7 +13,7 @@ ptype: theory
 
 Please read:
 
-1. Maddison (2005) - [Confounding Asymmetries in Evolutionary Diversification and Character Change](http://www.bioone.org/doi/abs/10.1554/05-666.1)
+1. Maddison (2005) - [Confounding Asymmetries in Evolutionary Diversification and Character Change](http://www.bioone.org/doi/abs/10.1554/05-666.1) (the PDF is available on Canvas)
 
 If you would like to learn more about state-dependent diversification models, please see: 
 
