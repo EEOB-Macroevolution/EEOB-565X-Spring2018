@@ -25,4 +25,4 @@ See the <a href="{{ "/Software" | relative_url }}">Software page</a> for details
 
 ##### Practical Questions
 
-Please submit your answers to the practical questions on [Canvas](). You should submit your answers by 12:00 PM on March 23.
+Please submit your answers to the practical questions on [Canvas](https://canvas.iastate.edu/courses/46870/discussion_topics/287520). You should submit your answers by 12:00 PM on March 23.
