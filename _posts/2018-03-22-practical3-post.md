@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Practical: Simple Diversification Models & Estimating Time Trees"
+title: "Practical: Estimating State-Dependent Speciation and Extinction under the BiSSE Model in RevBayes"
 reading: "Review the BiSSE Model Introduction"
 ptype: practical
 ---
