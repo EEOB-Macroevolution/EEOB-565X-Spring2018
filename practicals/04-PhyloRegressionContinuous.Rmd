@@ -9,13 +9,17 @@ output: html_document
 This tutorial is intended to provide an introduction to the basics of implementing several phylogenetic comparative methods using R. As with previous tutorials, we begin with a brief conceptual overview, which sets the stage for why this is type of analysis is crucial for correct macroevolutionary inference. Then, we go over the basics of reading data and phylogenies into R, evaluating the degree to which phylogenetic signal is present in a continuous trait, and learn three ways to examine bivariate trait associations in continuous data: phylogenetically independent contrasts (PIC), phylogenetic generalized least squares (PGLS), and phylogenetic transformation methods. 
 
 ### Download data files
-To run the analyses in this tutorial, please download the following files from our Git-course repository (click on links below, then right-click, save to disk):
+To run the analyses in this tutorial, please download the following files from our Git-course repository: 
 
-[Phylogeny](https://raw.githubusercontent.com/EEOB-Macroevolution/EEOB-565X-Spring2018/master/practicals/TutorialData/Mander.tre)
+[Phylogeny](https://eeob-macroevolution.github.io/EEOB-565X-Spring2018/practicals/TutorialData/Mander.tre)
 
-[Data1](https://raw.githubusercontent.com/EEOB-Macroevolution/EEOB-565X-Spring2018/master/practicals/TutorialData/HydromantesMns.csv)
+[Data1](https://eeob-macroevolution.github.io/EEOB-565X-Spring2018/practicals/TutorialData/HydromantesMns.csv)
 
-[Data2](https://raw.githubusercontent.com/EEOB-Macroevolution/EEOB-565X-Spring2018/master/practicals/TutorialData/PlethodonMns.csv)
+[Data2](https://eeob-macroevolution.github.io/EEOB-565X-Spring2018/practicals/TutorialData/PlethodonMns.csv)
+
+Additionally, The R-script for running the code found in this tutorial is found here:
+
+[PCM-RScript](https://eeob-macroevolution.github.io/EEOB-565X-Spring2018/practicals/TutorialData/04-PhyloRegressionContinuous.r)
 
 Then, on your local computer, place them in a folder named 'TutorialData', which is found in the same directory as this tutorial. 
 
