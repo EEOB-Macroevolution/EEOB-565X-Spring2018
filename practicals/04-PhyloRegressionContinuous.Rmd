@@ -19,7 +19,7 @@ To run the analyses in this tutorial, please download the following files from o
 
 Additionally, The R-script for running the code found in this tutorial is found here:
 
-[PCM-RScript](https://eeob-macroevolution.github.io/EEOB-565X-Spring2018/practicals/TutorialData/PhyloRegressionContinuous.r)
+[RScript](https://eeob-macroevolution.github.io/EEOB-565X-Spring2018/practicals/TutorialData/PhyloRegressionContinuous.r)
 
 Then, on your local computer, place them in a folder named 'TutorialData', which is found in the same directory as this tutorial. 
 
