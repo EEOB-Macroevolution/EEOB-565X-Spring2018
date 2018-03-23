@@ -90,7 +90,6 @@ _It works!_
 
 Install R and the suite of comparative phylogenetic methods packages.
 
-* One nice way to manage your R (and Python, etc.) install, you might like to use Anaconda: [https://www.anaconda.com/download](https://www.anaconda.com/download/?lang=en-us). This installs both R _and_ RStudio. Otherwise you can install them separately as below:
 1. Download and R for your operating system: [https://cran.r-project.org](https://cran.r-project.org/)
 2. We recommend using **RStudio** [https://www.rstudio.com](https://www.rstudio.com/) as your interactive development environment for `R`.
 
