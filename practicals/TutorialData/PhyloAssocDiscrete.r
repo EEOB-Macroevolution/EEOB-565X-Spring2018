@@ -10,6 +10,11 @@ plot(tree, show.tip.label = FALSE)
 mydata<-read.csv('TutorialData/DiscreteData.csv', row.names=1, header=TRUE)
 mydata[1:10,]
 
+#Match data with tree
+data.pruned<-treedata(phy=tree,data = mydata, warnings=FALSE)
+tree<-data.pruned$phy
+mydata<-data.pruned$data
+
 #Plot data on tree
 plot.phylo(tree,show.tip.label = F)
 tiplabels(pie = to.matrix(mydata[,1],sort(unique(mydata[,1]))),piecol=c("red", "black"),cex=.3, offset=0)
@@ -60,17 +65,19 @@ res3.ard<-corHMM(tree,trt3,rate.cat=1,rate.mat=rmat.ard,node.states="marginal")
 #compare models: logL and AIC
 res3.er$loglik 
 res3.ard$loglik
+LRT<- -2*(res3.er$loglik - res3.ard$loglik)  #LRT test
+LRT
+1-pchisq( LRT,df = 1)  #probability of LRT
 res3.er$AICc
 res3.ard$AICc    #ARD preferred
 res3.ard$solution  #rate transition parameters
+   #transition from 
 
 
 #####2: Two trait analysis: Trait association
+#Compare dependent (correlated) change model (ARD) with independent change model (ER)  #See Pagel 1994
 trtset12<-cbind(row.names(mydata),mydata[,1:2])
 trtset34<-cbind(row.names(mydata),mydata[,3:4])
-
-#########DCA:  what models should we compare here? Pagel 1994 'omnibus test' L(I) vs L(D). what were they?
-   #Compare dependent (correlated) change model (ARD) with independent change model (ER)  #See Pagel 1994
 
 #Traits 1&2
 plot.phylo(tree,show.tip.label = F)
