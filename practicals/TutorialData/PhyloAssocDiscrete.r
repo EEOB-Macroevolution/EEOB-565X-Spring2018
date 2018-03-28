@@ -128,5 +128,5 @@ disc.res34.dir<-corDISC(tree,trtset34,ntraits=2,model="ER",rate.mat=dir.rat,node
 disc.res34.er$loglik
 disc.res34.dir$loglik 
 disc.res34.er$AIC
-disc.res34.dir$AIC # VERY STRONG SUPPORT FOR DIRECTED DEPENDENT EVOLUTION
+disc.res34.dir$AIC # # VERY STRONG SUPPORT FOR DIRECTIONAL DEPENDENT EVOLUTION
 
