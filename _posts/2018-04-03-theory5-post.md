@@ -7,7 +7,7 @@ ptype: theory
 
 ##### Overview
 
-This lecture will cover the theory of ancestral state reconstruction. 
+This lecture will cover the theory of ancestral state estimation. 
 
 ##### Reading
 
