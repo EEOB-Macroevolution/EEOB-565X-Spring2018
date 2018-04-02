@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Theory: Ancestral State reconstruction"
+title: "Theory: Ancestral State estimation"
 reading: "Cunningham et al (1998) - Reconstructing ancestral character states: a critical reappraisal"
 ptype: theory
 ---
