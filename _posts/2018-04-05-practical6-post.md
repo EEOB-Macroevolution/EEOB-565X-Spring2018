@@ -20,7 +20,7 @@ See the <a href="{{ "/Software" | relative_url }}">Software page</a> for details
 
 ##### Tutorial
 
-1. [Discrete Trait Phylogenetic Association](https://eeob-macroevolution.github.io/EEOB-565X-Spring2018/practicals/06-AncStateEstimation) -- We will work through this tutorial in class.
+1. [Ancestral State Estimation](https://eeob-macroevolution.github.io/EEOB-565X-Spring2018/practicals/06-AncStateEstimation) -- We will work through this tutorial in class.
 
 ##### Practical Questions
 
