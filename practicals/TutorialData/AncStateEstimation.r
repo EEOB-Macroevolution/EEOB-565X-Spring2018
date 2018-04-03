@@ -65,6 +65,10 @@ svl<-read.csv('TutorialData/anole.svl.csv', row.names=1, header=TRUE)
 svl<-as.matrix(svl)[,1]  #change to vector
 anc.cont.ML<-fastAnc(tree,svl,vars=TRUE,CI=TRUE)
   #anc.cont.ML #output: estimate and 95% CI
+anc.cont.ML$ace  #ancestral estimates
+plot(tree)
+nodelabels()
+
 
 #PLOT as color map
 tree.col<-contMap(tree,svl,plot=FALSE)  #runs Anc. St. Est. on branches of tree
