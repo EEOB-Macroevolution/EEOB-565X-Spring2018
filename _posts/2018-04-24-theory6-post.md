@@ -23,3 +23,7 @@ For background please read:
 
 1. Sanmartin (2012) - [Historical Biogeography: Evolution in Time and Space](https://link.springer.com/article/10.1007%2Fs12052-012-0421-2) (open access)
 
+For additional details on the methods we'll cover, see:
+
+1. Landis et al. (2013) - [Bayesian Analysis of Biogeography when the Number of Areas is Large](https://academic.oup.com/sysbio/article/62/6/789/1708738) (open access)
+2. Landis (2017) - [Biogeographic Dating of Speciation Times Using Paleogeographically Informed Processes](https://academic.oup.com/sysbio/article/66/2/128/2669985) (open access)
