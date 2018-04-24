@@ -26,4 +26,6 @@ For background please read:
 For additional details on the methods we'll cover, see:
 
 1. Landis et al. (2013) - [Bayesian Analysis of Biogeography when the Number of Areas is Large](https://academic.oup.com/sysbio/article/62/6/789/1708738) (open access)
+2. Ree et al. (2005) - [A likelihood framework for inferring the evolution of geographic range on phylogenetic trees](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0014-3820.2005.tb00940.x) (open access)
+3. Ree & Smith (2008) - [Maximum Likelihood Inference of Geographic Range Evolution by Dispersal, Local Extinction, and Cladogenesis](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0014-3820.2005.tb00940.x) (open access)
 2. Landis (2017) - [Biogeographic Dating of Speciation Times Using Paleogeographically Informed Processes](https://academic.oup.com/sysbio/article/66/2/128/2669985) (open access)
