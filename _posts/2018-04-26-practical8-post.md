@@ -27,3 +27,9 @@ For this class, we will use RevBayes and the following tutorial:
 ##### Practical Questions
 
 Please submit your answers to the practical questions on Canvas
+
+##### More on Interesting Methods
+
+Here is a recent paper on using biogeography to date the Hawaiian silverswords see: 
+
+1. Landis et al. 2018. [Retracing the Hawaiian silversword radiation despite phylogenetic, biogeographic, and paleogeographic uncertainty](https://www.biorxiv.org/content/early/2018/04/17/301887). bioRxiv.
