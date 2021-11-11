@@ -1,0 +1,1 @@
+Posts of activities
